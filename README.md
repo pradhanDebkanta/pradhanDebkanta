@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradhanDebkanta
 - 👀 I’m interested in Web Developement.
-- 🌱 I’m currently learning Laraval 
+- 🌱 I’m currently learning Node JS 
 - 💞️ I’m looking to collaborate on any Full Stack Project
 - 📫 How to reach me Email: debkantapradhan2000@gmail.com
 
