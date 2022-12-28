@@ -1,19 +1,19 @@
 ## Hii, I'm Debkanta 👋
 <div>
 <a href="https://twitter.com/DebkantaPradha4">
-  <img align="left" alt="Debkanta's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Debkanta's Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/debkanta-pradhan-4b6399193/">
-  <img align="left" alt="Debkanta's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/pradhanDebkanta/">
-  <img align="left" alt="Debkanta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Debkanta's Linkdein" width="22px" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />
 </a>
 <a href="https://stackoverflow.com/users/18110912/dp5252">
- <img align="left" alt="Debkanta's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
+ <img align="left" alt="Debkanta's Stack Overflow" width="22px" src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" />
 </a>
   <a href="https://www.debkantapradhan.me/">
  <img align="left" alt="Debkanta's Portfolio" width="22px" src="https://cdn.cdnlogo.com/logos/a/40/adobe-portfolio.svg" />
+</a>
+  <a href="https://github.com/pradhanDebkanta/">
+  <img align="left" alt="Debkanta's Github" width="22px" src="https://cdn.cdnlogo.com/logos/g/55/github.svg" />
 </a>
 </div>
 
