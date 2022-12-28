@@ -12,6 +12,9 @@
 <a href="https://stackoverflow.com/users/18110912/dp5252">
  <img align="left" alt="Debkanta's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
 </a>
+  <a href="https://www.debkantapradhan.me/">
+ <img align="left" alt="Debkanta's Portfolio" width="22px" src="https://cdn.cdnlogo.com/logos/a/40/adobe-portfolio.svg" />
+</a>
 </div>
 
 <br/>
